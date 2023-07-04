@@ -1,5 +1,5 @@
 # Credit Page for JSP
 
-## Game: Hide and Sleep
+## Game: Hey! Wake Up!
 
 ## A game insipred by the May 1st 2023 Cohort.
